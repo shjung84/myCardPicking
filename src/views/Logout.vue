@@ -1,18 +1,15 @@
+<style lang="scss"></style>
+
 <template lang="pug">
-  router-view
+h1 Logout
 </template>
 
 <script>
 export default {
-  name: "App",
+  name: "Logout",
   components: {},
-  computed: {},
-  watch: {},
   data() {
     return {};
-  },
-  mounted() {
-    console.log(`App : mounted`);
   },
 };
 </script>
